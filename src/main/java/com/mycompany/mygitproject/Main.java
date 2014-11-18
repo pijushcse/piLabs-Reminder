@@ -10,5 +10,7 @@ package com.mycompany.mygitproject;
  * @author Pijush
  */
 public class Main {
-    
+    public static void main(String[] args) {
+        
+    }
 }
